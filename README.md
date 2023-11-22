@@ -1,2 +1,2 @@
 # SynCQG
-A
+Code for the paper ()
