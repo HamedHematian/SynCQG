@@ -1,4 +1,4 @@
-# Consistency Training by Synthetic Question Generation for Conversational Question Answering
+### Consistency Training by Synthetic Question Generation for Conversational Question Answering
 
 This code presents the method for our paper, which is submitted to NAACL 2024. The architecture of the model is presented in the below image.
 
