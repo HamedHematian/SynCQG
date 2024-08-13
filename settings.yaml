@@ -1,0 +1,13 @@
+train_path: train_v0.2.json
+eval_path: val_v0.2.json
+files_here: false
+model_id: 'bert-base-uncased'
+start_offset_: 2
+quac_train_url: https://s3.amazonaws.com/my89public/quac/val_v0.2.json
+quac_eval_url: https://s3.amazonaws.com/my89public/quac/train_v0.2.json
+synthetic_questions_id: '1cEGjldn76jSHzU6dOCFdvH2C5A1rUwyK&confirm=t'
+orig_eval_file: 'features/truth/val_real.json'
+orig_test_file: 'features/truth/test_real.json'
+is_preprocessed: false # whether the data files are processed or not (originally they are not)
+model_present: false # whether the model and tokenizer are present
+only_np: True # whether the data files are processed or not (originally they are not)
