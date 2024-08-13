@@ -11,8 +11,6 @@ for Running CoTaH may simple run (change parameters by your will):
 python Cotah_Bert.py --model_name CoTaH-BERT \
                        --S 2 \
                        --kl_ratio 2. \
-                       --gamma .8 \
-                       --M 10 \
                        --tau 6 \
                        --batch_size 6 \
                        --accumulation_steps 1 \
