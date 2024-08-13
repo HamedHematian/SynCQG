@@ -1,6 +1,6 @@
 ### Official Code for "Consistency Training by Synthetic Question Generation for Conversational Question Answering" Paper 
 
-#### Note: I made sure that code is not buggy right now, and it runs smoothly, but it may also be! Please note that I will be adding the code for training the Conversational Question Generation Module in the next days.
+Note: I made sure that code is not buggy right now, and it runs smoothly, but it may also be! Please note that I will be adding the code for training the Conversational Question Generation Module in the next days.
 
 
 #### Running
