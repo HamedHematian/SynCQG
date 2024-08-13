@@ -5,7 +5,7 @@ Note: I made sure that code is not buggy right now, and it runs smoothly, but it
 
 #### Running
 
-for Running CoTaH may simple run:
+for Running CoTaH may simple run (change parameters by your will):
 
 ```
 python Cotah_Bert.py --model_name CoTaH-BERT \
@@ -20,4 +20,14 @@ python Cotah_Bert.py --model_name CoTaH-BERT \
                        --dist_type uniform \
                        --use_sim_threshold True \
                        --source_directory .   
+```
+
+for Running BERT:
+
+```
+python Bert.py --model_name BERT \
+               --batch_size 6 \
+               --accumulation_steps 1 \
+               --seed 1000 \
+               --source_directory .   
 ```
