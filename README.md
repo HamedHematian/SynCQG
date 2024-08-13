@@ -8,8 +8,7 @@ Note: I made sure that code is not buggy right now, and it runs smoothly, but it
 for Running CoTaH may simple run:
 
 ```
-
-! python Cotah_Bert.py --model_name CoTaH-BERT \
+python Cotah_Bert.py --model_name CoTaH-BERT \
                        --S 2 \
                        --kl_ratio 2. \
                        --gamma .8 \
@@ -20,6 +19,5 @@ for Running CoTaH may simple run:
                        --seed 1000 \
                        --dist_type uniform \
                        --use_sim_threshold True \
-                       --source_directory . \
-                      
+                       --source_directory .   
 ```
