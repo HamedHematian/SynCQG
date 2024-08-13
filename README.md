@@ -5,7 +5,7 @@ Note: I made sure that code is not buggy right now, and it runs smoothly, but it
 
 #### Running
 
-for Running CoTaH may simple run (change parameters by your will):
+For Running CoTaH may simple run (change parameters by your will):
 
 ```
 python Cotah_Bert.py --model_name CoTaH-BERT \
@@ -20,7 +20,13 @@ python Cotah_Bert.py --model_name CoTaH-BERT \
                        --source_directory .   
 ```
 
-for Running BERT:
+Of course, They have a default value so may simply run:
+
+```
+python Cotah_Bert.py   
+```
+
+For Running BERT:
 
 ```
 python Bert.py --model_name BERT \
