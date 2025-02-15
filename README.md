@@ -1,11 +1,11 @@
-### Official Code for "Consistency Training by Synthetic Question Generation for Conversational Question Answering" Paper 
+### Official Code for "Consistency Training by Synthetic Question Generation for Conversational Question Answering" [ACL 2024](https://aclanthology.org/2024.acl-short.57.pdf) 
 
-Note: I made sure that code is not buggy right now, and it runs smoothly, but it may also be! Please note that I will be adding the code for training the Conversational Question Generation Module in the next days.
+Note: I made sure that the code is not buggy right now and that it runs smoothly, but it may also be! Please note that I will add the code for training the Conversational Question Generation Module in the next few days.
 
 
 #### Running
 
-For Running CoTaH may simple run (change parameters by your will):
+For Running CoTaH may simply run (change parameters by your will):
 
 ```
 python Cotah_Bert.py --model_name CoTaH-BERT \
